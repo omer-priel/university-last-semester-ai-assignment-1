@@ -86,3 +86,7 @@ if __name__ == '__main__':
 # Final weight: [-18.11  18.24]
 # Number of rounds: 1153
 # Correct: 150, Mistake: 0
+
+# What is the final direction vector?           is ~ 45 degrees
+# How many mistakes were made by the algorithm? 0
+# What margin was achieved by the final direction vector? 0.021
